@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lowinage.github.io/sitemap.html.gz
+Sitemap: https://lowinage.github.io/app/sitemap.html.gz
+Sitemap: https://lowinage.github.io/assets/sitemap.html.gz
+Sitemap: https://lowinage.github.io/css/sitemap.html.gz
+Sitemap: https://lowinage.github.io/includes/sitemap.html.gz
+Sitemap: https://lowinage.github.io/item/sitemap.html.gz
+Sitemap: https://lowinage.github.io/src/sitemap.html.gz
